@@ -1,0 +1,17 @@
+{
+  "name": "koa-water-api",
+  "version": "0.0.1",
+  "description": "Heroku <-> GitHub integration testing",
+  "main": "index.js",
+  "repository": "https://github.com/vasilich6107/koa-water-api",
+  "author": "vasilich",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "./node_modules/.bin/nodemon"
+  },
+  "dependencies": {
+    "koa": "^2.4.1",
+    "nodemon": "^1.14.11"
+  }
+}
